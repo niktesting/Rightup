@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.webflow.io	TRUE	/	FALSE	1999999999	_cfuvid	okSz38QMZaXZV8CWS9xBp4XRoEKHrTI6VhAnP2tYjcE-1751189967737-0.0.1.1-604800000
-goodbrand-io.webflow.io	TRUE	/	FALSE	1999999999	SameSite	None
-.hs-scripts.com	TRUE	/	FALSE	1999999999	__cf_bm	Kh14tNDR6mIGrsyqskneu_QtcefVFuFDk8CashkQv_w-1751189977-1.0.1.1-vmD9WSAAklHYXQK7gtq_3Tbp7IXqCM2HcwZc1q0FqLQnm9Qf8xGztxSeWSaLCnonv7ztzipEQW_.r4ia1Rd8Khmbb6p2eXdf1TW468PiOLI
-
